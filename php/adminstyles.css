@@ -1,0 +1,45 @@
+.admin-wrapper {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  .logout {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  .logout a {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: #f44336;
+    color: white;
+    border-radius: 3px;
+  }
+  
+  .logout a:hover {
+    background-color: #d32f2f;
+  }
+  
